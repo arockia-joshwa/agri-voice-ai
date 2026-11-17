@@ -1,0 +1,11 @@
+{
+  "title": "AgriVoice AI — Tamil Agricultural Assistant",
+  "description": "AgriVoice AI is an intuitive assistant for farmers, offering disease detection through image analysis and Tamil voice interaction for agricultural guidance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
